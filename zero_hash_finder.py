@@ -1,6 +1,6 @@
 # Michael Ferrie - Sep, 2019
 
-# Write a program that will keep adding a random character to the end of
+# Write a program that will keep adding a random character to the enhttps://github.com/michaelferrie/python_hashing/blob/master/zero_hash_finder_gui.pyd of
 # the input_string until the output_hash starts with 4 zeros
 # the program should print out the new input_string each time until the
 # desired md5hash is discovered
